@@ -66,7 +66,7 @@ public class Coche {
   //pido los datos con la funcion scaner
     Centralita coche2 =new Centralita(KmR, LC, VMed, Gas);
      
-        System.out.println("El coche 2 recorrio "+KmR+"Km con un consumo medio de "+ coche2.getConsumoMedio()+ "l/100km y el precio medio de los 100km es de "+coche2.getPrecioConsumo()+" E y una velocidad media de "+coche2.getVelocicadeMedia()+"Km/h");
+        System.out.println("El coche 2 recorrio "+KmR+"Km con un consumo medio de "+ coche2.getConsumoMedio()+ "l/100km y el precio medio de los 100km es de "+coche2.getPrecioConsumo()+"E y una velocidad media de "+coche2.getVelocicadeMedia()+"Km/h y tardo "+coche2.getTiempo()+"H");
      
     Centralita coche3 =new Centralita();
                System.out.println("El coche 3 recorrio "+coche3.getKm()+"Km con un consumo medio de "+ coche3.getConsumoMedio()+ " l/100km y el precio medio de los 100km es de "+coche3.getPrecioConsumo()+" E y una velocidad media de "+coche3.getVelocicadeMedia()+"Km/h");

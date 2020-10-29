@@ -74,6 +74,11 @@ public class Centralita {
         return VMed;
     }
     
+    public float getTiempo(){
+        float tiempo =km/VMed;
+        return tiempo;
+    }
+    
     
     public Float getLitros(){
         return litros;
