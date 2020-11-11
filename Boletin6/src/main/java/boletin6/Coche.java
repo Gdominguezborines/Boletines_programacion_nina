@@ -25,10 +25,10 @@ private  int velocidade;
         
             }
 
-    public int getVelocidade(){
-        return velocidade;
-  
-            }
+    public int getVelocidade( ){
+       return velocidade;
+    }
+            
 
     public void Acelerar(int A){
         velocidade=velocidade+A;
@@ -40,13 +40,6 @@ private  int velocidade;
         
         System.out.println("Al frenar la velocidad es de ="+velocidade+"km/h");
                    }
-    
-    
-    
-    
-    
-    
-    
     
     
     

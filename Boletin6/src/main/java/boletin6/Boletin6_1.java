@@ -31,17 +31,23 @@ public class Boletin6_1 {
         // TODO code application logic here
         
      Scanner sc =new Scanner(System.in);
-     
+            
+         
     System.out.println("Escribe los velocidad= ");
          int v=sc.nextInt();
      
-      Coche coche2 =new Coche( v);
-     
-        System.out.println("La velocidad es de ="+coche2.getVelocidade());
+    System.out.println("Escribe la aceleracion= ");
+         int A=sc.nextInt();
+    System.out.println("Escribe la deceleracion= ");
+         int F=sc.nextInt(); 
+         
+                  
+     Coche mercedes =new Coche();
+        System.out.println("La velocidad es de ="+mercedes.getVelocidade());
       
      
-     coche2.Acelerar(v);
-     coche2.Frenar(v);
+     mercedes.Acelerar(v);
+     mercedes.Frenar(v);
      
      
     
