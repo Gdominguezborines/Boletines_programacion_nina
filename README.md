@@ -19,5 +19,5 @@
 <h3>[Boletin9_1]</h3><6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_1</6>
 <h3>[Boletin9_2]</h3><6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_2</6>
 <h3>[Boletin9_3]</h3><6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_3</6>
-<h3>[Boletin9_4]</h3><6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_4    </6>
+<h3>[Boletin9_4]</h3><6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_4</6>
 <h3>[Boletin9_5]</h3><6>    </6>
