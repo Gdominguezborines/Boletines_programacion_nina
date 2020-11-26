@@ -14,10 +14,8 @@
 <h3>[Boletin7_5]</h3><h6>   https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/boletin7_5/src/main/java/boletin7_5</h6>
 <h3>[Boletin8_6]</h3><h6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin8/src/main/java/boletin8_6</h6>
 <h3>[Boletin8_7]</h3><h6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin8/src/main/java/boletin8_7</h6>
-
-
 <h3>[Boletin9_1]</h3><h6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_1</h6>
 <h3>[Boletin9_2]</h3><h6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_2</h6>
 <h3>[Boletin9_3]</h3><h6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_3</h6>
 <h3>[Boletin9_4]</h3><h6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_4</h6>
-<h3>[Boletin9_5]</h3><h6>    </h6>
+<h3>[Boletin9_5]</h3><h6>https://github.com/Gdominguezborines/Boletines_programacion_nina/tree/main/Boletin9/src/main/java/Boletin9_5</h6>
