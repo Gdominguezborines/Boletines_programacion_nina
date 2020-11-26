@@ -15,16 +15,10 @@ import javax.swing.JOptionPane;
  */
 public class Trabajadores {
     
-    private String Trabajador;
+ 
     private int Sueldo=0;
 
-   
-            
-    public String trabajador(){
-        
-      Trabajador=JOptionPane.showInputDialog(null,"Introduce el nombre del trabajador");
-        return Trabajador;
-    }
+    
     public int sueldo(){
         Sueldo=Integer.parseInt(JOptionPane.showInputDialog(null,"Introduce sueldo"));
         return Sueldo;
@@ -39,19 +33,19 @@ public class Trabajadores {
          
         
         do{  
-            Trabajador=trabajador();
+         
             Sueldo=sueldo();
-            NumTrabajadores++;
             
-          //  System.out.println(NumTrabajadores);
+            
+          //  System.out.println(Sueldo);
             if(Sueldo>0){
-               
+               NumTrabajadores++;
               //  System.out.println(NumTrabajadores);
                    
                 if(Sueldo>=1000  &&Sueldo<=1750){
                     NumeroDeSueldosAltos++;
                 }
-                else if (Sueldo<1000){
+                else if (Sueldo<1000 && Sueldo>0){
                     NumeroDeSueldosBajos++;
                 }
                 
