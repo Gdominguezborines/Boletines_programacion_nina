@@ -42,12 +42,12 @@ public class Boletin6_1 {
          int F=sc.nextInt(); 
          
                   
-     Coche mercedes =new Coche();
+     Coche mercedes =new Coche(v);
         System.out.println("La velocidad es de ="+mercedes.getVelocidade());
       
      
-     mercedes.Acelerar(v);
-     mercedes.Frenar(v);
+     mercedes.Acelerar(A);
+     mercedes.Frenar(F);
      
      
     
