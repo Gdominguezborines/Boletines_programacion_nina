@@ -27,8 +27,8 @@ public class JuegoContraMaquina {
        int b;
    
        
-      numeroAleatorio=(int)(Math.random()*(50-1+1)+1);
-        //numeroAleatorio=5;  
+     // numeroAleatorio=(int)(Math.random()*(50-1+1)+1);
+        numeroAleatorio=50;  
            //   System.out.println(numeroAleatorio);
        
              do{
@@ -37,18 +37,18 @@ public class JuegoContraMaquina {
       
         a=numero_elegido-numeroAleatorio;
         b=numeroAleatorio-numero_elegido;
-         //  System.out.println(a+"  y  "+b);
+           System.out.println(a+"  y  "+b);
                 
                 
          if(a >20 || b >20){
                       
               JOptionPane.showMessageDialog(null,"moi lonxe");
             }    
-            else if(b <=20 && a >=10 || b <=20 && a >=10){
+            else if(b <=20 && b >=10 || a <=20 && a >=10){
                        
               JOptionPane.showMessageDialog(null,"lonxe");
             }
-            else if (b <10 && a >5 || b <10 && a >5) {
+            else if (b <10 && b >5 || a <10 && a >5) {
               JOptionPane.showMessageDialog(null,"preto");
                  
             }
