@@ -27,8 +27,8 @@ public class JuegoContraMaquina {
        int b;
    
        
-     // numeroAleatorio=(int)(Math.random()*(50-1+1)+1);
-        numeroAleatorio=50;  
+      numeroAleatorio=(int)(Math.random()*(50-1+1)+1);
+     //   numeroAleatorio=50;  
            //   System.out.println(numeroAleatorio);
        
              do{
@@ -37,7 +37,7 @@ public class JuegoContraMaquina {
       
         a=numero_elegido-numeroAleatorio;
         b=numeroAleatorio-numero_elegido;
-           System.out.println(a+"  y  "+b);
+       //    System.out.println(a+"  y  "+b);
                 
                 
          if(a >20 || b >20){
