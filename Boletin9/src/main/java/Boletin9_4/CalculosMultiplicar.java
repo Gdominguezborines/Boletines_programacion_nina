@@ -15,7 +15,7 @@ public class CalculosMultiplicar {
     
     //variable que recibe el numero para luego comprovar con tabla
     private int num;
-
+    private String total;
     
     public int getNum() {
         return num;
@@ -44,11 +44,10 @@ public class CalculosMultiplicar {
         for(int i=1;i<=10; i++){
             System.out.println(" ");
             System.out.println(num+"x"+i+"="+num*i );
+            
+             total =(num+"x"+i+"="+num*i );
         }
-        
-               
-        if(num==0)
-            JOptionPane.showMessageDialog(null,"Programa terminado");
+     
         
         }
         while(num !=0);
